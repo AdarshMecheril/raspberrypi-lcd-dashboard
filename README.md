@@ -24,6 +24,8 @@ A simple and beginner-friendly **Python-based digital dashboard** using a **Rasp
 | SDA     | Pin 3 (GPIO 2)   | I2C Data        |
 | SCL     | Pin 5 (GPIO 3)   | I2C Clock       |
 
+![Wiring Diagram](wiring_diagram.png)
+
 ---
 
 ## 🖥️ What It Displays
