@@ -89,13 +89,6 @@ python3 lcd_dashboard.py
 
 ---
 
-## 🎥 YouTube Demo (Optional)
-
-👉 *Add your video link here once uploaded*  
-Feel free to showcase your wiring and working demo!
-
----
-
 ## 🙌 Credits
 
 This project was built and documented by [Adarsh Mecheril](https://github.com/AdarshMecheril)  
